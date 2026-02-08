@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "10.47.41.2",
+    "project": "YAGSS 2026 Swervebot V.1"
+  }
+]
